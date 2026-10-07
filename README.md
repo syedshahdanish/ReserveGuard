@@ -100,8 +100,6 @@ ReserveGuard/
 
 │   └── test\_backend.py
 
-├── docs/
-
 ├── .gitignore
 
 └── README.md
